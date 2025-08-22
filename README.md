@@ -11,12 +11,12 @@ This project demonstrates a comprehensive digital forensics investigation workfl
 Digital forensics capabilities are essential for organizations to conduct internal investigations, respond to security incidents, and support legal proceedings. Proper evidence handling ensures compliance with regulatory requirements and maintains evidentiary integrity.
 
 ### Use Case Scenario
-A company needs to investigate potential intellectual property theft involving unauthorized file transfers to external USB devices. The forensic process includes:
-- Creating forensic images of suspect storage devices
-- Analyzing file metadata and transfer patterns
-- Identifying unauthorized data exfiltration
-- Generating court-admissible evidence reports
-- Maintaining chain of custody documentation
+A company suspects unauthorized disclosure of confidential business information and personally identifiable information (PII). The forensic investigation involves:
+- Recovering deleted or hidden files containing sensitive information
+- Extracting and analyzing metadata to identify authors and creation patterns
+- Identifying intellectual property and PII exposure risks
+- Documenting evidence for legal proceedings and internal disciplinary actions
+- Implementing preventive measures based on findings
 
 ### Compliance Benefits
 - **Legal Preparedness**: Evidence collected following forensic standards
